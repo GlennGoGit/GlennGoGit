@@ -12,8 +12,9 @@ Python • SQL • R • Git • Power BI • PowerApps • Docker • Linux
 
 ## 🚀 Featured Projects
 - [Navy Ship Maintenance Forecast](https://github.com/GlennGoGit/navy-ship-maintenance-forecast)  
-- Compliance Workflow Automation (coming soon)  
-- Reactor Instrumentation Simulation (coming soon)  
+- [Compliance Workflow Automation](https://github.com/GlennGoGit/compliance-automation-tools) *(coming soon)*  
+- [Reactor Instrumentation Simulation](https://github.com/GlennGoGit/reactor-instrumentation-sim) *(coming soon)*  
+
 
 ---
 
