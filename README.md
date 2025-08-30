@@ -1,7 +1,7 @@
 # Hi, I’m Glenn ⚓  
 
-I’m a former U.S. Navy Reactor Operator and Command Master Chief turned data & analytics builder.  
-Hands-on with Python, SQL, R, Git, and automation — passionate about prototyping, iterating, and applying AI-era tools to real-world problems.  
+⚓ Ex-Navy Reactor Operator and Command Master Chief turned data & analytics builder — hands-on with Python, SQL, R, Git, automation, and AI-era tools to solve tough real-world problems.
+
 
 ---
 
