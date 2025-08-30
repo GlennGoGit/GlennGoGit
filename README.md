@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Glenn ⚓  
 
-<!--
-**GlennGoGit/GlennGoGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a former U.S. Navy Reactor Operator and Command Master Chief turned data & analytics builder.  
+Hands-on with Python, SQL, R, Git, and automation — passionate about prototyping, iterating, and applying AI-era tools to real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+Python • SQL • R • Git • Power BI • PowerApps • Docker • Linux  
+
+---
+
+## 🚀 Featured Projects
+- [Navy Ship Maintenance Forecast](https://github.com/GlennGoGit/navy-ship-maintenance-forecast)  
+- Compliance Workflow Automation (coming soon)  
+- Reactor Instrumentation Simulation (coming soon)  
+
+---
+
+## 🎯 About This Portfolio
+This GitHub showcases demo projects that reflect my technical experience in:  
+- Predictive analytics  
+- Instrumentation and control systems  
+- Workflow automation and compliance tools  
+
+All projects use **synthetic/demo data** to illustrate concepts — no proprietary or sensitive data is shared.  
